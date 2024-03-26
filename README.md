@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @FelixDeBa
-- 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... Python web development with Django
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m always learning Python and Javascript
 - 📫 How to reach me ... felix.d.barrios@gmail.com
 
 <!---
