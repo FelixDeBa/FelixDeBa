@@ -2,7 +2,7 @@
 
 - 🌱 I’m learning Python and Javascript
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixDeBa&hide_progress=true&theme=gruvbox)
 
 <!---
 FelixDeBa/FelixDeBa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
